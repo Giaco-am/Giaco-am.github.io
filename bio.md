@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Bio
+title: bio
 permalink: /bio/
 ---
 
 # bio
 
-I am a Tech assistant at [SISSA](https://www.sissa.it/)
+I am a Tech assistant at [SISSA](https://www.sissa.it/).

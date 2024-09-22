@@ -6,6 +6,5 @@ permalink: /projects/
 
 # projects
 
-[thesis](link)
+[thesis (ita)](Giaco-am.github.io\docs\TESI.pdf)
 
-[Home](/)
