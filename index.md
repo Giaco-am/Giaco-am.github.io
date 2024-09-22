@@ -1,4 +1,4 @@
-# Giacomo Amerio
+
 
 I am a Tech Assistant at [SISSA](https://en.wikipedia.org/wiki/International_School_for_Advanced_Studies). 
 
