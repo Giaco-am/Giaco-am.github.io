@@ -20,4 +20,4 @@ permalink: /stuff/
 
 ## videos
 
-[Home](/)
+[back](/)

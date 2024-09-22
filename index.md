@@ -51,3 +51,4 @@ title: Giacomo Amerio
   <a href="/contact/" class="important">contacts</a> | 
   <a href="/stuff/">stuff</a>
 </div>
+[back](/)

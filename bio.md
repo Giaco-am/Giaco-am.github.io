@@ -7,3 +7,4 @@ permalink: /bio/
 # bio
 
 I am a Tech assistant at [SISSA](https://www.sissa.it/).
+[back](/)
