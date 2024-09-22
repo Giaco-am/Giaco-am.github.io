@@ -1,8 +1,7 @@
-
 ---
 layout: default
-title: Docs
-permalink: /docs/
+title: docs
+permalink: /documents/
 ---
 
 <style>
@@ -16,7 +15,7 @@ Here is a list of documents:
 <ul>
 {% for doc in site.static_files %}
   {% if doc.path contains '/docs/' %}
-    <li><a href="{{ doc.path | relative_url }}">{{ doc.name }}</a></li>
+    <li><a href="{{  Giaco-am.github.io\docs | relative_url }}">{{ doc.name }}</a></li>
   {% endif %}
 {% endfor %}
 </ul>
