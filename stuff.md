@@ -10,6 +10,7 @@ permalink: /stuff/
 
 ### scifi
 
+<br>
 
 ## papers
 
@@ -17,6 +18,7 @@ permalink: /stuff/
 
 ### neuro
 
+<br>
 
 ## videos
 

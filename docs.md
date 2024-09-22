@@ -8,9 +8,9 @@ permalink: /docs/
   /* Add any additional styles for the Docs page here */
 </style>
 
-# Documents
+# docs
 
-Below is a list of available documents:
+available documents:
 
 <ul>
 {% assign doc_files = site.static_files | where: "extname", ".pdf" %}
