@@ -1,5 +1,5 @@
-# Projects
 
--[thesis](link)
+
+[thesis](link)
 
 [Home](/)

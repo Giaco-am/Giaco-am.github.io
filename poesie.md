@@ -1,5 +1,5 @@
-Poesie
 
-- [Periodo e momenti](\docs\Periodo e Momenti.pdf)
+
+[Periodo e momenti](\docs\Periodo e Momenti.pdf)
 
 [Home](/)
