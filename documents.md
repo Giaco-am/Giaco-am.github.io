@@ -8,7 +8,7 @@ permalink: /documents/
   /* Add any additional styles if needed */
 </style>
 
-# Documents
+# docs
 
 Here is a list of documents:
 

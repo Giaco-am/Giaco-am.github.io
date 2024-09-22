@@ -4,6 +4,6 @@ title: Bio
 permalink: /bio/
 ---
 
-# Bio
+# bio
 
 I am a Tech assistant at [SISSA](https://www.sissa.it/)
