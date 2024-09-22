@@ -21,4 +21,6 @@ Below is a list of available documents:
   {% endif %}
 {% endfor %}
 </ul>
+
+<br>
 [back](/)
