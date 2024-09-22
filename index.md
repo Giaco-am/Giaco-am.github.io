@@ -45,9 +45,9 @@ title: Giacomo Amerio
 
 <div class="logo">Giacomo Amerio</div>
 <div class="menu">
-  <a href="#bio">Bio</a> | 
-  <a href="#docs">Docs</a> | 
-  <a href="#projects">Projects</a> | 
-  <a href="#contact" class="important">Contact (get in touch!)</a> | 
-  <a href="#faq">FAQ</a>
+  <a href="/bio/">bio</a> | 
+  <a href="/docs/">docs</a> | 
+  <a href="/projects/">projects</a> | 
+  <a href="/contact/" class="important">contacts</a> | 
+  <a href="/stuff/">stuff</a>
 </div>

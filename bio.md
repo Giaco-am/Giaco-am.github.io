@@ -1,5 +1,9 @@
+---
+layout: default
+title: Bio
+permalink: /bio/
+---
 
+# Bio
 
-
-
-[Home](/)
+<I am a Tech assistant at SISSA>
