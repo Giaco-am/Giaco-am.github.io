@@ -1,6 +1,6 @@
 ---
 layout: default
-title: docs
+title: documents
 permalink: /docs/
 ---
 
@@ -16,7 +16,8 @@ Below is a list of available documents:
 {% assign doc_files = site.static_files | where: "extname", ".pdf" %}
 {% for myfile in doc_files %}
   {% if myfile.path contains "/docs/" %}
-    <li><a href="{{ myfile.path | relative_url }}">{{ myfile.name }}</a></li>
+    {% assign display_name = myfile.name | remove: myfile.extname %}
+    <li><a href="{{ myfile.path | relative_url }}">{{ display_name }}</a></li>
   {% endif %}
 {% endfor %}
 </ul>
