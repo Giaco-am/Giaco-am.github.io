@@ -23,4 +23,8 @@ available documents:
 </ul>
 
 <br>
+Note: an English version of my thesis will be uploaded soon
+
+
+<br>
 [back](/)
