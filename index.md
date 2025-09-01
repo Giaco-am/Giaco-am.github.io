@@ -7,8 +7,13 @@ title: Giacomo Amerio
   <h1 class="hero-title">
     <span>Giacomo Amerio</span>
     <span class="robot-think" aria-hidden="true">
+      <span class="thoughts left">
+        <span class="cloud c1">💭</span>
+        <span class="cloud c2">💭</span>
+        <span class="cloud c3">💭</span>
+      </span>
       <span class="robot-head">🤖</span>
-      <span class="thoughts">
+      <span class="thoughts right">
         <span class="cloud c1">💭</span>
         <span class="cloud c2">💭</span>
         <span class="cloud c3">💭</span>

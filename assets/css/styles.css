@@ -99,42 +99,48 @@ li { margin: 6px 0; }
 .robot-think {
   display: inline-flex;
   align-items: center;
-  gap: 8px;
+  gap: 12px;
 }
 
 .robot-head {
-  width: 36px;
-  height: 36px;
-  border-radius: 10px;
-  border: 2px solid var(--accent);
+  width: 54px;
+  height: 54px;
+  border-radius: 12px;
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  font-size: 20px;
+  font-size: 32px;
   line-height: 1;
-  box-shadow: 0 2px 10px rgba(0,0,0,0.05);
+  filter: drop-shadow(0 2px 8px rgba(0,0,0,0.08));
 }
 
-.thoughts {
-  display: inline-flex;
-  gap: 4px;
+.thoughts { display: inline-flex; gap: 6px; }
+.thoughts.left { transform: scaleX(-1); }
+
+.thoughts .cloud { opacity: 0; transform: translateY(2px); animation: cloudWave 2.4s ease-in-out infinite; }
+
+.thoughts .cloud.c2 { animation-delay: .3s; }
+.thoughts .cloud.c3 { animation-delay: .6s; }
+.thoughts.right .cloud.c1 { animation-delay: .6s; }
+.thoughts.right .cloud.c2 { animation-delay: .9s; }
+.thoughts.right .cloud.c3 { animation-delay: 1.2s; }
+
+.robot-head { animation: robotBob 2.4s ease-in-out infinite; }
+
+@keyframes cloudWave {
+  0% { opacity: 0; transform: translateY(3px) scale(0.92); }
+  15% { opacity: 1; transform: translateY(0) scale(1); }
+  40% { opacity: .9; transform: translateY(-1px) scale(1.03); }
+  60% { opacity: 0.4; transform: translateY(0) scale(1); }
+  100% { opacity: 0; transform: translateY(3px) scale(0.92); }
 }
 
-.thoughts .cloud {
-  opacity: 0;
-  transform: translateY(2px);
-  animation: cloudBlink 2.2s ease-in-out infinite;
-}
-
-.thoughts .cloud.c2 { animation-delay: .35s; }
-.thoughts .cloud.c3 { animation-delay: .7s; }
-
-@keyframes cloudBlink {
-  0% { opacity: 0; transform: translateY(2px); }
-  15% { opacity: 1; transform: translateY(0); }
-  35% { opacity: 0.8; }
-  55% { opacity: 0; }
-  100% { opacity: 0; transform: translateY(2px); }
+@keyframes robotBob {
+  0% { transform: translateY(0); }
+  25% { transform: translateY(-1px); }
+  50% { transform: translateY(0); }
+  75% { transform: translateY(1px); }
+  100% { transform: translateY(0); }
 }
 
 .hero p {
