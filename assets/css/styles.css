@@ -90,57 +90,15 @@ li { margin: 6px 0; }
   padding: 56px 0 24px;
 }
 
-.hero-title {
-  display: inline-flex;
-  align-items: center;
-  gap: 10px;
+.hero h1::after {
+  content: "_";
+  animation: blink 1.1s steps(1, end) infinite;
+  color: var(--accent);
 }
 
-.robot-think {
-  display: inline-flex;
-  align-items: center;
-  gap: 12px;
-}
-
-.robot-head {
-  width: 54px;
-  height: 54px;
-  border-radius: 12px;
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  font-size: 32px;
-  line-height: 1;
-  filter: drop-shadow(0 2px 8px rgba(0,0,0,0.08));
-}
-
-.thoughts { display: inline-flex; gap: 6px; }
-.thoughts.left { transform: scaleX(-1); }
-
-.thoughts .cloud { opacity: 0; transform: translateY(2px); animation: cloudWave 2.4s ease-in-out infinite; }
-
-.thoughts .cloud.c2 { animation-delay: .3s; }
-.thoughts .cloud.c3 { animation-delay: .6s; }
-.thoughts.right .cloud.c1 { animation-delay: .6s; }
-.thoughts.right .cloud.c2 { animation-delay: .9s; }
-.thoughts.right .cloud.c3 { animation-delay: 1.2s; }
-
-.robot-head { animation: robotBob 2.4s ease-in-out infinite; }
-
-@keyframes cloudWave {
-  0% { opacity: 0; transform: translateY(3px) scale(0.92); }
-  15% { opacity: 1; transform: translateY(0) scale(1); }
-  40% { opacity: .9; transform: translateY(-1px) scale(1.03); }
-  60% { opacity: 0.4; transform: translateY(0) scale(1); }
-  100% { opacity: 0; transform: translateY(3px) scale(0.92); }
-}
-
-@keyframes robotBob {
-  0% { transform: translateY(0); }
-  25% { transform: translateY(-1px); }
-  50% { transform: translateY(0); }
-  75% { transform: translateY(1px); }
-  100% { transform: translateY(0); }
+@keyframes blink {
+  0%, 50% { opacity: 1; }
+  50.01%, 100% { opacity: 0; }
 }
 
 .hero p {

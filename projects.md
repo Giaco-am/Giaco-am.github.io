@@ -21,7 +21,7 @@ Below are selected documents and work. PDF links open directly.
     {% elsif myfile.name == "periodo-e-momenti.pdf" %}
       {% assign description = "A collection of my poems, written in Italian." %}
     {% elsif myfile.name == "thesis.pdf" %}
-      {% assign description = "EEG data correlation analysis via intrinsic dimension estimation; predicts functional connectivity from intrinsic dimensionality of coupled EEG signals. Written in Italian" %}
+      {% assign description = "EEG data correlation analysis via intrinsic dimension estimation; predicts functional connectivity from intrinsic dimensionality of coupled EEG signals. Written in Italian." %}
     {% endif %}
     <li>
       <a href="{{ myfile.path | relative_url }}">{{ display_name }}</a>

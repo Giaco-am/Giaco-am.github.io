@@ -4,22 +4,7 @@ title: Giacomo Amerio
 ---
 
 <section class="hero">
-  <h1 class="hero-title">
-    <span>Giacomo Amerio</span>
-    <span class="robot-think" aria-hidden="true">
-      <span class="thoughts left">
-        <span class="cloud c1">💭</span>
-        <span class="cloud c2">💭</span>
-        <span class="cloud c3">💭</span>
-      </span>
-      <span class="robot-head">🤖</span>
-      <span class="thoughts right">
-        <span class="cloud c1">💭</span>
-        <span class="cloud c2">💭</span>
-        <span class="cloud c3">💭</span>
-      </span>
-    </span>
-  </h1>
+  <h1>Giacomo Amerio</h1>
   <p class="muted"> I have studied Physics and I am a HW/SW Developer in a Neuroscience Lab at SISSA. I want to understand how Neural Networks think.
   
   Explore my projects, or get in touch.</p>
