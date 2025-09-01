@@ -13,8 +13,8 @@ Below are selected documents and work. PDF links open directly.
 <ul>
 {% assign doc_files = site.static_files | where: "extname", ".pdf" %}
 {% for myfile in doc_files %}
-  {% if myfile.path contains "/docs/" %}
-    {% assign display_name = myfile.name | remove: myfile.extname %}
+  {% if myfile.path contains "/assets/docs/" %}
+    {% assign display_name = myfile.name | remove: myfile.extname | replace: '-', ' ' %}
     <li><a href="{{ myfile.path | relative_url }}">{{ display_name }}</a></li>
   {% endif %}
 {% endfor %}

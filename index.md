@@ -6,6 +6,7 @@ title: Giacomo Amerio
 <section class="hero">
   <h1>Giacomo Amerio</h1>
   <p class="muted"> I have studied Physics and I am a HW/SW Developer in a Neuroscience Lab at SISSA. I want to understand how Neural Networks think.
+  
   Explore my projects, or get in touch.</p>
 </section>
 
