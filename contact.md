@@ -12,5 +12,3 @@ permalink: /contact/
 
 # LinkedIn
 [Giacomo Amerio](www.linkedin.com/in/giacomo-amerio-ab103329a)
-<br>
-[back](/)

@@ -7,17 +7,7 @@
   <link rel="stylesheet" href="{{ '/assets/css/styles.css' | relative_url }}">
 </head>
 <body>
-  <nav class="site-nav">
-    <div class="container">
-      <a class="brand" href="{{ '/' | relative_url }}">GA</a>
-      <div class="nav-links">
-        <a href="{{ '/' | relative_url }}"{% if page.url == '/' %} class="active"{% endif %}>home</a>
-        <a href="{{ '/projects/' | relative_url }}"{% if page.url == '/projects/' %} class="active"{% endif %}>projects</a>
-        <a href="{{ '/contact/' | relative_url }}"{% if page.url == '/contact/' %} class="active"{% endif %}>contacts</a>
-        <a href="{{ '/stuff/' | relative_url }}"{% if page.url == '/stuff/' %} class="active"{% endif %}>stuff</a>
-      </div>
-    </div>
-  </nav>
+
   <main class="container">
     {{ content }}
   </main>
