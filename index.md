@@ -9,19 +9,7 @@ title: Giacomo Amerio
   Explore my projects, or get in touch.</p>
 </section>
 
-<div class="badges">
-  <a class="badge" href="/projects/"><span class="dot"></span> mechanistic interpretability</a>
-  <a class="badge" href="/projects/"><span class="dot"></span> sparse autoencoders</a>
-  <a class="badge" href="/projects/"><span class="dot"></span> systems hacking</a>
-  <a class="badge" href="/projects/"><span class="dot"></span> open-source tooling</a>
-  <a class="badge" href="/projects/"><span class="dot"></span> cognitive architectures</a>
-  <a class="badge" href="/projects/"><span class="dot"></span> philosophy of mind</a>
-  <a class="badge" href="/projects/"><span class="dot"></span> shipping over slides</a>
-  <a class="badge" href="/projects/"><span class="dot"></span> interpretability demos</a>
-  <a class="badge" href="/projects/"><span class="dot"></span> minimal UX</a>
-  <a class="badge" href="/projects/"><span class="dot"></span> neural probes</a>
-  <a class="badge" href="/projects/"><span class="dot"></span> embedded ML</a>
-</div>
+
 
 <section class="quick-links container">
   <div class="card-links">
