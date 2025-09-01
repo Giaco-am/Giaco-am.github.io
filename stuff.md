@@ -4,23 +4,6 @@ title: stuff
 permalink: /stuff/
 ---
 
-## books
+# stuff
 
-### téchnè
-
-### scifi
-
-<br>
-
-## papers
-
-### ML
-
-### neuro
-
-<br>
-
-## videos
-
-<br>
-[back](/)
+coming soon.
