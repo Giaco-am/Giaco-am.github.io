@@ -4,8 +4,6 @@ title: projects
 permalink: /projects/
 ---
 
-<a class="back-link" href="{{ "/" | relative_url }}">Home</a>
-
 # projects
 
 Below are selected documents and work. PDF links open directly.
@@ -53,3 +51,5 @@ Below are selected documents and work. PDF links open directly.
   </li>
 {% endfor %}
 </ul>
+
+<a class="back-link" href="{{ "/" | relative_url }}">Home</a>

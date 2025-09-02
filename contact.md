@@ -4,8 +4,6 @@ title: contacts
 permalink: /contact/
 ---
 
-<a class="back-link" href="{{ "/" | relative_url }}">Home</a>
-
 # twitter / X
 [téchnè kid](https://x.com/techne_kid)
 
@@ -17,3 +15,5 @@ permalink: /contact/
 
 # Google Scholar
 [My Scholar Profile](https://scholar.google.com/citations?user=T9fBAbMAAAAJ&hl=en)
+
+<a class="back-link" href="{{ "/" | relative_url }}">Home</a>

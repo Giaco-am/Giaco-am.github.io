@@ -4,8 +4,8 @@ title: stuff
 permalink: /stuff/
 ---
 
-<a class="back-link" href="{{ "/" | relative_url }}">Home</a>
-
 # stuff
 
 coming soon.
+
+<a class="back-link" href="{{ "/" | relative_url }}">Home</a>
