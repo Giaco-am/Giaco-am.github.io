@@ -125,6 +125,25 @@ li { margin: 6px 0; }
 
 
 /* Quick links under hero */
+.back-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 14px;
+  color: var(--muted);
+  text-decoration: none;
+  margin: 4px 0 10px;
+}
+
+.back-link:hover {
+  color: var(--accent);
+}
+
+.back-link::before {
+  content: "←";
+  font-size: 14px;
+}
+
 .quick-links {
   padding: 8px 0 32px;
 }

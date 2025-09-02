@@ -4,7 +4,7 @@ title: projects
 permalink: /projects/
 ---
 
-# <a href="{{ "/" | relative_url }}">Home</a>
+<a class="back-link" href="{{ "/" | relative_url }}">Home</a>
 
 # projects
 
