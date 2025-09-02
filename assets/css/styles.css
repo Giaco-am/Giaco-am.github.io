@@ -132,7 +132,8 @@ li { margin: 6px 0; }
   font-size: 14px;
   color: var(--muted);
   text-decoration: none;
-  margin-top: 32px;
+  margin-top: 20px;
+  margin-bottom: 16px;
   float: left;
 }
 

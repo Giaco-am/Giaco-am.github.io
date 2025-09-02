@@ -1,7 +1,7 @@
 - repo: Giaco-am/HMMint
   title: HMMint
   description: Hidden Markov Models for transformer prediction trajectories and early sentiment prediction.
-  tags: [python, interpretability, hmm, transformers]
+  tags: [interpretability, hmm, transformers]
 - repo: Giaco-am/Scientific_Computing_Toolbox
   title: Scientific Computing Toolbox
   description: ODEs, interpolation, statistics in C++ with Python bindings.
@@ -9,5 +9,5 @@
 - repo: Giaco-am/PSO-Gen-XDREAM-main
   title: PSO Gen XDREAM
   description: Hybrid PSO-Genetic Algorithm for neuron-preferred stimulus discovery.
-  tags: [optimization, pso, neuroscience]
+  tags: [optimization, pso, neuroscience, evolutionary algorithms]
 
