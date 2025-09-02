@@ -7,7 +7,7 @@ permalink: /contact/
 ## twitter / X
 [téchnè kid](https://x.com/techne_kid)
 
-## gitHub
+## github
 [Giaco-am](https://github.com/Giaco-am)
 
 ## linkedIn
