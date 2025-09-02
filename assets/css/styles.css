@@ -133,7 +133,7 @@ li { margin: 6px 0; }
   color: var(--muted);
   text-decoration: none;
   margin-top: 32px;
-  float: right;
+  float: left;
 }
 
 .back-link:hover {

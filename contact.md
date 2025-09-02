@@ -4,16 +4,16 @@ title: contacts
 permalink: /contact/
 ---
 
-# twitter / X
+## twitter / X
 [téchnè kid](https://x.com/techne_kid)
 
-# GitHub
+## GitHub
 [Giaco-am](https://github.com/Giaco-am)
 
-# LinkedIn
+## LinkedIn
 [Giacomo Amerio](https://linkedin.com/in/giacomo-amerio-ab103329a)
 
-# Google Scholar
+## Google Scholar
 [My Scholar Profile](https://scholar.google.com/citations?user=T9fBAbMAAAAJ&hl=en)
 
 <a class="back-link" href="{{ "/" | relative_url }}">Home</a>
