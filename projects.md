@@ -4,6 +4,8 @@ title: projects
 permalink: /projects/
 ---
 
+# <a href="{{ "/" | relative_url }}">Home</a>
+
 # projects
 
 Below are selected documents and work. PDF links open directly.
