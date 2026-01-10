@@ -1,7 +1,11 @@
 - repo: Giaco-am/HMMint
   title: HMMint
-  description: Hidden Markov Models for transformer prediction trajectories and early sentiment prediction.
+  description: Hidden Markov Models as interpretable surrogate dynamics for BERT prediction trajectories and early sentiment prediction.
   tags: [interpretability, hmm, transformers]
+- repo: Giaco-am/mice-representation
+  title: Mice Representation
+  description: Compared ANN representations with mouse visual cortex data (RSA/CKA/PLS) under biologically inspired preprocessing.
+  tags: [representation, neuroscience, ann, rsa, cka, pls]
 - repo: Giaco-am/Scientific_Computing_Toolbox
   title: Scientific Computing Toolbox
   description: ODEs, interpolation, statistics in C++ with Python bindings.
@@ -10,4 +14,3 @@
   title: PSO Gen XDREAM
   description: Hybrid PSO-Genetic Algorithm for neuron-preferred stimulus discovery.
   tags: [optimization, pso, neuroscience, evolutionary algorithms]
-
