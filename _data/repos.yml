@@ -1,11 +1,11 @@
 - repo: Giaco-am/HMMint
   title: HMMint
   description: Hidden Markov Models as interpretable surrogate dynamics for BERT prediction trajectories and early sentiment prediction.
-  tags: [interpretability, hmm, transformers]
+  tags: [interpretability, hmm, BERT]
 - repo: Giaco-am/mice-representation
   title: Mice Representation
   description: Compared ANN representations with mouse visual cortex data (RSA/CKA/PLS) under biologically inspired preprocessing.
-  tags: [representation, neuroscience, ann, rsa, cka, pls]
+  tags: [representation, neuroscience, RSA, CKA, PLS]
 - repo: Giaco-am/Scientific_Computing_Toolbox
   title: Scientific Computing Toolbox
   description: ODEs, interpolation, statistics in C++ with Python bindings.
@@ -14,3 +14,11 @@
   title: PSO Gen XDREAM
   description: Hybrid PSO-Genetic Algorithm for neuron-preferred stimulus discovery.
   tags: [optimization, pso, neuroscience, evolutionary algorithms]
+- repo: Project-Hindenburg/peal
+  title: PEAL
+  description: Probes BERT number representations with Logic Tensor Networks to test whether arithmetic structure (parity, successor relations) is recoverable from hidden states.
+  tags: [probing, ltn, arithmetics in transformers, interpretability]
+- repo: Project-Hindenburg/hico
+  title: HICO
+  description: Hierarchical In-Context Organization studies how LLMs structure geometric reorganizations of representations through in-context learning.
+  tags: [in-context learning, geometric representations, Llama3.1]
