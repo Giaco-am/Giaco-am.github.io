@@ -17,6 +17,9 @@ Below are selected documents and work. PDF links open directly.
     {% assign display_name = myfile.name | remove: myfile.extname | replace: '-', ' ' %}
     {% assign description = nil %}
     {% if myfile.name == "eu-ai-essay.pdf" %}
+      {% assign display_name = "No end justifies unexplainable means" %}
+    {% endif %}
+    {% if myfile.name == "eu-ai-essay.pdf" %}
       {% assign description = "EU AI Act transparency centers on risk/compliance, not technical interpretability. In this essay I propose 'Interpretability-as-Infrastructure' embedding mechanistic interpretability artifacts (e.g., attribution graphs) in documentation to link liability to interpretability and make accountability enforceable." %}
     {% elsif myfile.name == "periodo-e-momenti.pdf" %}
       {% assign description = "A collection of my poems, written in Italian." %}
