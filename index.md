@@ -5,7 +5,7 @@ title: Giacomo Amerio
 
 <section class="hero">
   <h1>Giacomo Amerio</h1>
-  <p class="muted"> I have studied Physics and I am a HW/SW Developer in a Neuroscience Lab at SISSA. I want to understand how Neural Networks think.
+  <p class="muted"> I have studied Physics and I am a HW/SW Developer in the <a href="https://visualneurolab.sissa.it">Visual Neuroscience Lab</a> at SISSA. I'd like to understand whether Neural Networks think like us. I used to write poems, now I like reading hard sci-fi and solving hard problems.
   
   Explore my projects, or get in touch.</p>
 </section>
