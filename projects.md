@@ -35,8 +35,8 @@ Below are selected documents and work. PDF links open directly.
 
 <ul>
   <li>
-    <a href="https://arxiv.org/pdf/2506.17040">Stretching Beyond the Obvious: A Gradient-Free Framework to Unveil the Hidden Landscape of Visual Invariance</a>
-    <div class="muted">Tausani, Muratore, Talbot, Amerio, Kreiman, Zoccolan</div>
+    <a href="https://arxiv.org/abs/2506.17040v2">Stretching Beyond the Obvious: A Gradient-Free Framework to Unveil the Hidden Landscape of Visual Invariance</a>
+    <div class="muted">Tausani, Muratore, Talbot, Amerio, Kreiman, Zoccolan, ICLR 2026</div>
   </li>
 </ul>
 
