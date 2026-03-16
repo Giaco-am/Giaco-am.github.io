@@ -6,7 +6,7 @@ permalink: /projects/
 
 # projects
 
-Below are selected documents and work. PDF links open directly.
+Below are selected documents and projects. PDF links open directly.
 
 ## documents
 
