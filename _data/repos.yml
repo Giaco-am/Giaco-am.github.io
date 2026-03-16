@@ -1,3 +1,7 @@
+- repo: zoccolan-lab/SnS
+  title: SnS
+  description: SnS is a gradient-free framework to study invariance and adversarial robustness of artificial and biological visual neurons.
+  tags: [Invariance, Adversarial Robustness, ICLR 2026]
 - repo: Project-Hindenburg/hico
   title: HICO
   description: Hierarchical In-Context Organization studies how LLMs structure geometric reorganizations of representations through in-context learning.
